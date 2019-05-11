@@ -41,3 +41,4 @@ interface LabelledValue {
  /**
   * 接口可以被继承，也可以被实现
   */
+ 
