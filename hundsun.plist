@@ -26,10 +26,10 @@
            </array>
            <key>metadata</key>
            <dict>
-               <key>com.kysec.lhb</key>
-               <string>domain</string>
-               <key>2.0.0</key>
-               <string>1.0.0</string>
+               <key>bundle-identifier</key>
+               <string>com.kysec.lhb</string>
+               <key>bundle-version</key>
+               <string>2.0.0</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
