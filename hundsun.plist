@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+   <key>items</key>
+   <array>
+       <dict>
+           <key>assets</key>
+           <array>
+               <dict>
+                   <key>kind</key>
+                   <string>software-package</string>
+                   <key>url</key>
+                   <!--ipa安装包的ip地址 -->
+                   <string> 10.26.115.243:8080/com.kysec.lhb_2.0.0_ios_20190729161913_T.ipa</string>
+               </dict>
+               <dict>
+                   <key>kind</key>
+                   <string>display-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <!--下载图标的地址 -->
+                   <string>10.26.115.243:8080/timg.jpg</string>
+               </dict>
+           </array>
+           <key>metadata</key>
+           <dict>
+               <key>com.kysec.lhb</key>
+               <string>domain</string>
+               <key>2.0.0</key>
+               <string>1.0.0</string>
+               <key>kind</key>
+               <string>software</string>
+               <key>subtitle</key>
+               <string>App Subtitle</string>
+               <key>title</key>
+               <string>App Title</string>
+           </dict>
+       </dict>
+   </array>
+</dict>
+</plist>
