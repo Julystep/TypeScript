@@ -11,8 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <!--ipa安装包的ip地址 -->
-                   <string> http://47.93.39.164:8080/cpp/com.kysec.lhb_2.0.0_ios_20190729161913_T.ipa</string>
+                   <string>http://47.93.39.164:8080/cpp/com.kysec.lhb_2.0.0_ios_20190729161913_T.ipa</string>
                </dict>
            </array>
            <key>metadata</key>
@@ -24,9 +23,9 @@
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>App Subtitle</string>
+               <string>应用下载</string>
                <key>title</key>
-               <string>App Title</string>
+               <string>应用下载</string>
            </dict>
        </dict>
    </array>
